@@ -2,8 +2,8 @@
 
 - 🔭 Engenheira Eletricista em transição de carreira
 - 🌱 Estou estudando SQL e PYTHON
+<br>
 
-##
 
 <div align="center">
   <a href="https://github.com/tatacspl">
