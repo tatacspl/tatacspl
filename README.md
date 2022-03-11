@@ -15,6 +15,7 @@
       <p align="center">
       <img align="center"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center"  height="30" width="30" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest/scale-to-width-down/96?cb=20200929195935">
       </p>
     </div>
   
